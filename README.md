@@ -10,7 +10,7 @@ The user can then eat the burger by clicking on the "Eat it" button.
 
 When the user clicks on the "Eat it" button, the burger will be displayed on the right side of the page along with the name of the user. The burgers and the users their information will be stored in the mySQL database.
 
-##The app can be access on:
+##The app can be accessed on:
 
 https://dashboard.heroku.com/apps/gentle-atoll-97262
 
