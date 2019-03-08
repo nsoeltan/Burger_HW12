@@ -1,0 +1,115 @@
+body {
+  width: 99%;
+  height: 900px;
+
+  background-image: url("../images/burger.PNG");
+  background-color: rgb(36, 31, 31);
+  background-repeat: no-repeat;
+  background-position: right top;
+}
+
+.btn {
+  width: 180px;
+}
+
+.form-control {
+  width: 700px;
+  height: 75px;
+  margin-bottom: 40px;
+  margin-top: 12px;
+  margin: auto;
+  border: 2px solid rgb(100, 128, 0);
+}
+
+#text-enter-button {
+  width: 350px;
+
+  margin-left: 175px;
+  background-color: orange;
+  border: 2px solid rgb(100, 128, 0);
+}
+
+#eatit {
+  background-color: orange;
+  border: 2px solid rgb(100, 128, 0);
+}
+
+.card {
+  background-color: grey;
+  color: white;
+}
+
+img {
+  height: 250px;
+  width: 250px;
+}
+
+#name {
+  text-align: center;
+  width: 180px;
+}
+
+.enter_section {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.button-size {
+  padding-bottom: 20px;
+}
+
+#text-enter-button {
+  margin-top: 10px;
+  margin-bottom: 18px;
+  color: black;
+}
+
+h1 {
+  color: #f30;
+}
+
+main {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+#devoured {
+  width: 300px;
+  height: 100px;
+  margin-bottom: 20px;
+  margin-top: 12px;
+  margin-left: 1px;
+}
+
+#burgername {
+  text-align: center;
+  width: 650px;
+}
+
+@media (min-width: 1366px) {
+  .container {
+    width: auto;
+  }
+
+  body {
+    width: auto;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    width: auto;
+  }
+  body {
+    width: auto;
+  }
+}
+
+@media (min-width: 360px) {
+  .container {
+    width: auto;
+  }
+  body {
+    width: auto;
+  }
+}
